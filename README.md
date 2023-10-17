@@ -4,8 +4,7 @@
 
 This is the code repository for [Burp Suite Cookbook](), published by Packt.
 
-**Subtitle from EPIC**
-Web application security made easy with Burp Suite
+**Web application security made easy with Burp Suite**
 
 ## What is this book about?
 Burp Suite is an immensely powerful and popular tool for web application security testing. This book provides a collection of recipes that address vulnerabilities in web applications and APIs. It offers guidance on how to configure Burp Suite, make the most of its tools, and explore into its extensions.
