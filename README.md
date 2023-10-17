@@ -31,9 +31,9 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
-| 1-13 | Oracle VirtualBox | Windows |
-| 1-13 | OWASP BWA VM | Windows |
-| 1-13 | Burp Proxy | Windows |
+| 1-11 | Oracle VirtualBox | Windows |
+| 1-11 | OWASP BWA VM | Windows |
+| 1-11 | Burp Proxy | Windows |
 
 
 ### Related products
