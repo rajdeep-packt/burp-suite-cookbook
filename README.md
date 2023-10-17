@@ -27,7 +27,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 **Following is what you need for this book:**
 If you are a beginner- or intermediate-level web security enthusiast, penetration tester, or security consultant preparing to test the security posture of your applications and APIs, this is the book for you.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-x).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
